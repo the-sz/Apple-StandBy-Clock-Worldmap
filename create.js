@@ -16,7 +16,7 @@ map.addPin(
 	svgOptions:
 	{
 		radius: 0.6,							// dot size
-		color: '#F6A300'						// dot color
+		color: '#FF9F0A'						// dot color
 	}
 });
 
